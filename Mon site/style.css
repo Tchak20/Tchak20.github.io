@@ -1,0 +1,63 @@
+.b,.v,.central{
+text-align: center;
+}
+.bastou{
+float: right;
+}
+h1{
+	font-size: 60px;
+}
+.site{
+	font-family: Snap ITC ;
+}
+
+div{
+background-color:#ffcd43;
+margin-top: 150px;
+padding: 10px 10px 10px 10px;
+
+}
+.bastou{
+box-shadow: 4px 4px 4px black;
+}
+
+header{
+background-color: black;
+color: white;
+position: fixed;
+top: 0px;
+width: 100%;
+
+}
+img{
+float: left;
+}
+.tete{
+width: 30%;
+display: block;
+}
+
+li{
+	font-size: 40px;
+}
+
+nav {
+background-color: beige;
+display: block;
+
+display: flex;
+}
+p{
+	font-size: 45px;
+}
+a 
+{
+text-decoration: none;
+color: blue;
+font-style: italic;
+}
+a:hover 
+{
+text-decoration: underline;
+color:#ffcd43;
+}

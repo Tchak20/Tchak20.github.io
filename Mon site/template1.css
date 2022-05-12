@@ -1,0 +1,36 @@
+header{
+background-color: green;
+height :15%;
+
+}
+
+nav {
+background-color: beige;
+width: 20%;
+}
+footer{
+background-color: green;
+height: 15%;
+
+}
+div{
+width: 1000px;
+height: 1000px;
+margin: auto;
+}
+aside{
+background-color: beige;
+width: 20%;
+
+
+}
+article{
+background-color: white;
+width: 60%;
+}
+section{
+display: flex;
+height: 70%;
+}
+
+

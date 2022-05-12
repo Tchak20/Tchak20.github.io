@@ -1,0 +1,48 @@
+header{
+border: 2px solid black;
+text-align: center;
+
+margin-bottom: 4px;
+height:5%;
+}
+
+nav {
+text-align: center;
+display: block;
+border: 2px solid black;
+margin-bottom: 4px;
+height:5%;
+
+}
+footer{
+background-color: silver;
+height:5%;
+border: 2px solid black;
+margin-top: 4px;
+text-align: center;
+
+
+}
+aside{
+text-align: center;
+
+border: 2px solid black;
+margin-left: 4px;
+width : 30%;
+}
+article{
+text-align: center;
+
+border: 2px solid black;
+width: 70%;
+}
+section{
+display: flex;
+height: 85%;
+}
+div{
+width: 400px;
+height: 500px;
+margin: auto;
+background-color: silver;
+}

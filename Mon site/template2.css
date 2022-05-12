@@ -1,0 +1,43 @@
+header{
+background-color: green;
+height: 10%;
+}
+
+nav {
+background-color: silver;
+float: left;
+height: 100%;
+width: 20%;
+}
+footer{
+background-color: green;
+height: 10%;
+
+}
+aside{
+background-color: beige;
+width : 20%;
+}
+article{
+background-color: white;
+width: 80%;
+
+}
+
+
+section .ligne{
+display: block;
+
+width : 80%;
+
+}
+section{
+display: flex;
+height: 80%;
+}
+div{
+width: 1000px;
+height: 1000px;
+margin: auto;
+}
+
